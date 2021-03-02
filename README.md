@@ -1,1 +1,3 @@
-# Arkitektura_e_kompjureve
+# Arkitektura e Kompjutereve
+
+In this project I converted a C++ function to MIPS Assembly.
